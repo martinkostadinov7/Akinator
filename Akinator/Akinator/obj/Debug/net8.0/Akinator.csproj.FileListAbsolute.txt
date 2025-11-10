@@ -1,0 +1,14 @@
+E:\c#\PROJECTS\Akinator\Akinator\bin\Debug\net8.0\Akinator.exe
+E:\c#\PROJECTS\Akinator\Akinator\bin\Debug\net8.0\Akinator.deps.json
+E:\c#\PROJECTS\Akinator\Akinator\bin\Debug\net8.0\Akinator.runtimeconfig.json
+E:\c#\PROJECTS\Akinator\Akinator\bin\Debug\net8.0\Akinator.dll
+E:\c#\PROJECTS\Akinator\Akinator\bin\Debug\net8.0\Akinator.pdb
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\Akinator.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\Akinator.AssemblyInfoInputs.cache
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\Akinator.AssemblyInfo.cs
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\Akinator.csproj.CoreCompileInputs.cache
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\Akinator.dll
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\refint\Akinator.dll
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\Akinator.pdb
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\Akinator.genruntimeconfig.cache
+E:\c#\PROJECTS\Akinator\Akinator\obj\Debug\net8.0\ref\Akinator.dll
