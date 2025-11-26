@@ -13,6 +13,11 @@ If the program fails to guess correctly, it prompts the player to **add a new qu
 This allows the system to **“learn”** from each session — implementing a **primitive form of machine learning**, where the tree dynamically expands based on user interactions.
 
 ---
+## Screenshots
+![Screenshot](images/Picture1.png)
+![Screenshot](images/Picture2.png)
+![Screenshot](images/Picture3.png)
+---
 
 ## Technologies Used
 - **Language:** C#  
